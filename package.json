@@ -1,0 +1,29 @@
+{
+  "name": "codeAngular",
+  "version": "0.0.0",
+  "description": "desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/alexmuniesa/codeAngular.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "NodeJS",
+    "Mongodb",
+    "monoogose"
+  ],
+  "author": "Alex Muniesa",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/alexmuniesa/codeAngular/issues"
+  },
+  "dependencies" : {
+  "express": "~3.5.1",
+  "mongoose":"~3.8.1"
+  },
+  "homepage": "https://github.com/alexmuniesa/codeAngular"
+}
